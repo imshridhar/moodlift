@@ -1,0 +1,23 @@
+﻿src/pages/ChallengesPage.tsx(11,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/ChallengesPage.tsx(26,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/ChallengesPage.tsx(35,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/ChallengesPage.tsx(45,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/ChallengesPage.tsx(54,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/CoachPage.tsx(11,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/CoachPage.tsx(20,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/CoachPage.tsx(34,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/CoachPage.tsx(43,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/CoachPage.tsx(154,47): error TS2554: Expected 1-2 arguments, but got 0.
+src/pages/CoachPage.tsx(271,53): error TS2554: Expected 1-2 arguments, but got 0.
+src/pages/JournalPage.tsx(104,38): error TS2345: Argument of type '(tag: string) => JSX.Element' is not assignable to parameter of type '(value: unknown, index: number, array: unknown[]) => Element'.
+  Types of parameters 'tag' and 'value' are incompatible.
+    Type 'unknown' is not assignable to type 'string'.
+src/pages/PlaybooksPage.tsx(11,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/PlaybooksPage.tsx(26,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/PlaybooksPage.tsx(35,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/PlaybooksPage.tsx(45,41): error TS2339: Property 'token' does not exist on type 'AuthState'.
+src/pages/PlaybooksPage.tsx(250,28): error TS7006: Parameter 'playbook' implicitly has an 'any' type.
+src/pages/PlaybooksPage.tsx(269,30): error TS7006: Parameter 'playbook' implicitly has an 'any' type.
+src/services/challengeApi.ts(1,8): error TS2613: Module '"C:/Users/shrid/Downloads/moodlift-production/moodlift/frontend/src/services/api"' has no default export. Did you mean to use 'import { api } from "C:/Users/shrid/Downloads/moodlift-production/moodlift/frontend/src/services/api"' instead?
+src/services/coachApi.ts(1,8): error TS2613: Module '"C:/Users/shrid/Downloads/moodlift-production/moodlift/frontend/src/services/api"' has no default export. Did you mean to use 'import { api } from "C:/Users/shrid/Downloads/moodlift-production/moodlift/frontend/src/services/api"' instead?
+src/services/playbookApi.ts(1,8): error TS2613: Module '"C:/Users/shrid/Downloads/moodlift-production/moodlift/frontend/src/services/api"' has no default export. Did you mean to use 'import { api } from "C:/Users/shrid/Downloads/moodlift-production/moodlift/frontend/src/services/api"' instead?

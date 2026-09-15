@@ -1,0 +1,38 @@
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-09T06:47:41.543Z"}
+{"level":"warn","message":"Redis disabled via REDIS_DISABLED=true. Using in-memory cache.","timestamp":"2026-04-09T06:47:41.544Z"}
+{"level":"info","message":"Cache layer ready","timestamp":"2026-04-09T06:47:41.545Z"}
+{"level":"info","message":"MoodLift API running on port 5000 [development]","timestamp":"2026-04-09T06:47:41.550Z"}
+{"level":"info","message":"Health check: http://localhost:5000/health","timestamp":"2026-04-09T06:47:41.550Z"}
+{"level":"info","message":"API base: http://localhost:5000/api/v1","timestamp":"2026-04-09T06:47:41.551Z"}
+{"code":"TOKEN_EXPIRED","level":"warn","message":"Client error: Access token expired","method":"GET","statusCode":401,"timestamp":"2026-04-09T06:48:22.267Z","url":"/api/v1/moods/stats/summary?period=7"}
+{"code":"TOKEN_EXPIRED","level":"warn","message":"Client error: Access token expired","method":"GET","statusCode":401,"timestamp":"2026-04-09T06:48:22.275Z","url":"/api/v1/moods/today"}
+{"code":"TOKEN_EXPIRED","level":"warn","message":"Client error: Access token expired","method":"GET","statusCode":401,"timestamp":"2026-04-09T06:48:22.317Z","url":"/api/v1/insights"}
+{"code":"TOKEN_EXPIRED","level":"warn","message":"Client error: Access token expired","method":"GET","statusCode":401,"timestamp":"2026-04-09T06:48:22.322Z","url":"/api/v1/notifications?unread_only=true&limit=5"}
+{"error":"fetch failed","level":"warn","message":"Gemini request error","timestamp":"2026-04-09T06:52:39.861Z"}
+{"error":"API key expired. Please renew the API key.","level":"warn","message":"Gemini request failed","status":400,"timestamp":"2026-04-09T06:55:17.847Z"}
+{"error":"API key expired. Please renew the API key.","level":"warn","message":"Gemini request failed","status":400,"timestamp":"2026-04-09T07:15:35.809Z"}
+{"level":"info","message":"Coaching conversation created for user 69cda0239e255e18f95723e0","timestamp":"2026-04-09T07:15:55.657Z"}
+{"error":"API key expired. Please renew the API key.","level":"warn","message":"Gemini request failed","status":400,"timestamp":"2026-04-09T07:16:05.798Z"}
+{"level":"info","message":"Coach message sent in conversation 69d7522b6c5716483981084c","timestamp":"2026-04-09T07:16:05.806Z"}
+{"error":"API key expired. Please renew the API key.","level":"warn","message":"Gemini request failed","status":400,"timestamp":"2026-04-09T07:16:23.144Z"}
+{"level":"info","message":"Coach message sent in conversation 69d7522b6c5716483981084c","timestamp":"2026-04-09T07:16:23.149Z"}
+{"error":"API key expired. Please renew the API key.","level":"warn","message":"Gemini request failed","status":400,"timestamp":"2026-04-09T07:16:40.008Z"}
+{"level":"info","message":"Coach message sent in conversation 69d7522b6c5716483981084c","timestamp":"2026-04-09T07:16:40.011Z"}
+{"error":"API key expired. Please renew the API key.","level":"warn","message":"Gemini request failed","status":400,"timestamp":"2026-04-09T07:19:04.321Z"}
+{"level":"info","message":"Coach message sent in conversation 69d7522b6c5716483981084c","timestamp":"2026-04-09T07:19:04.324Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","timestamp":"2026-04-09T07:19:08.687Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-09T07:19:12.037Z"}
+{"level":"warn","message":"Redis disabled via REDIS_DISABLED=true. Using in-memory cache.","timestamp":"2026-04-09T07:19:12.038Z"}
+{"level":"info","message":"Cache layer ready","timestamp":"2026-04-09T07:19:12.039Z"}
+{"level":"info","message":"MoodLift API running on port 5000 [development]","timestamp":"2026-04-09T07:19:12.044Z"}
+{"level":"info","message":"Health check: http://localhost:5000/health","timestamp":"2026-04-09T07:19:12.044Z"}
+{"level":"info","message":"API base: http://localhost:5000/api/v1","timestamp":"2026-04-09T07:19:12.044Z"}
+{"level":"info","message":"Coach message sent in conversation 69d7522b6c5716483981084c","timestamp":"2026-04-09T07:19:25.646Z"}
+{"level":"info","message":"Coach message sent in conversation 69d7522b6c5716483981084c","timestamp":"2026-04-09T07:19:55.116Z"}
+{"level":"info","message":"User 69cda0239e255e18f95723e0 completed lesson 2 of playbook 69cda184516f5d390d3cd093","timestamp":"2026-04-09T07:22:14.553Z"}
+{"code":"NOT_FOUND","details":null,"isOperational":true,"level":"error","message":"Error getting user rank: User not participating in this challenge not found","name":"NotFoundError","stack":"NotFoundError: User not participating in this challenge not found\n    at Object.getUserRank (C:\\Users\\shrid\\Downloads\\moodlift\\backend\\src\\services\\challenge.service.js:286:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async getLeaderboardController (C:\\Users\\shrid\\Downloads\\moodlift\\backend\\src\\controllers\\challenge.controller.js:179:18)","statusCode":404,"timestamp":"2026-04-09T07:22:33.009Z"}
+{"level":"info","message":"User 69cda0239e255e18f95723e0 joined challenge 69d492b0ac1f44f2099c7792","timestamp":"2026-04-09T07:22:38.489Z"}
+{"level":"info","message":"User 69cda0239e255e18f95723e0 progress updated on challenge 69d492b0ac1f44f2099c7792","timestamp":"2026-04-09T07:23:03.147Z"}
+{"level":"info","message":"User 69cda0239e255e18f95723e0 progress updated on challenge 69d492b0ac1f44f2099c7792","timestamp":"2026-04-09T07:23:31.600Z"}
+{"level":"info","message":"User logged in: shiva@gmail.com","timestamp":"2026-04-09T07:29:21.258Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","timestamp":"2026-04-09T07:33:12.875Z"}

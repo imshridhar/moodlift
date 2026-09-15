@@ -1,0 +1,15 @@
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-13T05:49:58.194Z"}
+{"level":"warn","message":"Redis disabled via REDIS_DISABLED=true. Using in-memory cache.","timestamp":"2026-04-13T05:49:58.195Z"}
+{"level":"info","message":"Cache layer ready","timestamp":"2026-04-13T05:49:58.196Z"}
+{"level":"info","message":"MoodLift API running on port 5000 [development]","timestamp":"2026-04-13T05:49:58.199Z"}
+{"level":"info","message":"Health check: http://localhost:5000/health","timestamp":"2026-04-13T05:49:58.199Z"}
+{"level":"info","message":"API base: http://localhost:5000/api/v1","timestamp":"2026-04-13T05:49:58.200Z"}
+{"level":"info","message":"User logged in: shiva@gmail.com","timestamp":"2026-04-13T05:52:29.499Z"}
+{"error":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","level":"warn","message":"Gemini request failed","status":503,"timestamp":"2026-04-13T06:19:23.561Z"}
+{"level":"info","message":"User logged in: shiva@gmail.com","timestamp":"2026-04-13T06:20:24.499Z"}
+{"level":"info","message":"Coaching conversation created for user 69cda0239e255e18f95723e0","timestamp":"2026-04-13T06:20:39.887Z"}
+{"level":"info","message":"Coaching conversation created for user 69cda0239e255e18f95723e0","timestamp":"2026-04-13T06:20:50.093Z"}
+{"error":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","level":"warn","message":"Gemini request failed","status":503,"timestamp":"2026-04-13T06:21:08.043Z"}
+{"level":"info","message":"Coach message sent in conversation 69dc8b42aa154b799ad8746d","timestamp":"2026-04-13T06:21:08.051Z"}
+{"level":"info","message":"User 69cda0239e255e18f95723e0 completed lesson 3 of playbook 69cda184516f5d390d3cd093","timestamp":"2026-04-13T06:23:56.581Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","timestamp":"2026-04-13T06:36:16.580Z"}
